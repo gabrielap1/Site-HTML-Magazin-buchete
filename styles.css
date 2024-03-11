@@ -1,0 +1,99 @@
+body {
+  background-image: linear-gradient(to right, #a7c7e7, #c1e1c1, #fffaa0);
+    letter-spacing: 0.5px;
+}
+
+header {
+    letter-spacing: 1px;
+    text-align: center;
+   
+}
+
+.contact {
+
+}
+
+.topnav {
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
+.text {
+  display: block;
+  justify-content: flex-end;
+}
+
+nav {
+    background: #f6b9ed;
+letter-spacing: 1px;
+text-align: center;
+}
+
+.topnav {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 25px;
+  text-decoration: none;
+  font-size: 20px;
+  color: red;
+  background-color: white;
+ 
+}
+
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 10px;
+  border: none;
+  margin-top: 10px;
+  margin-right: 1px;
+  font-size: 16px;
+  background: white;
+  height: 30px;
+  width: 250px;
+}
+
+
+footer {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 16px;
+  color: black;
+  display: block;
+  justify-content: center;
+ }
+
+.heading 
+  
+
+
+
+div {
+  display: block;
+}
+
+:root body {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  line-height: 1.5;
+  font-size: 1.5rem;
+  color: #320f0f;
+}
+
+html {
+  font-size: 62.5%;
+  -webkit-text-size-adjust: 100%;
+}
+
